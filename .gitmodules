@@ -1,0 +1,6 @@
+[submodule "epcsd-spring-notification"]
+	path = epcsd-spring-notification
+	url = git@github.com:ppinedar/epcsd-spring-notification.git
+[submodule "epcsd-spring-showcatalog"]
+	path = epcsd-spring-showcatalog
+	url = git@github.com:ppinedar/epcsd-spring-showcatalog.git
